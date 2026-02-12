@@ -3,6 +3,11 @@
 A fullscreen desktop image viewer built with Python + PyQt6 for fast photo browsing, keyboard-first navigation, and useful metadata display.
 
 ---
+# Screenshots
+
+![Main Viewer](screenshots/main_view.png)
+
+---
 
 ## Why I built this
 
@@ -63,7 +68,7 @@ In short:
 
 ```bash
 https://github.com/King-srt/Heic-Viewer-for-Windows.git
-cd king-viewer
+cd Heic-Viewer-for-Windows
 ```
 
 ## 2. Create virtual environment (recommended but optional)
@@ -152,7 +157,7 @@ rawpy
 
 # License
 
-MIT License
+None
 
 ---
 
@@ -169,7 +174,5 @@ Suitable for photography workflows, forensic image analysis, and daily image bro
 
 ---
 
-# Screenshots
 
-![image](https://github.com/user-attachments/assets/f419e6b6-d0b5-459d-8c92-2b4b6051b744)
 
