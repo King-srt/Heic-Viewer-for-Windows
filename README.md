@@ -5,7 +5,19 @@ A fullscreen desktop image viewer built with Python + PyQt6 for fast photo brows
 ---
 # Screenshots
 
-![Main Viewer](screenshots/main_view.png)
+![Main View](Screenshot/main_view.png)
+
+---
+# Project goals
+
+King Viewer is designed to be:
+
+* fast
+* stable
+* keyboard-first
+* professional-grade
+
+Suitable for photography workflows, forensic image analysis, and daily image browsing.
 
 ---
 
@@ -161,18 +173,7 @@ None
 
 ---
 
-# Project goals
 
-King Viewer is designed to be:
-
-* fast
-* stable
-* keyboard-first
-* professional-grade
-
-Suitable for photography workflows, forensic image analysis, and daily image browsing.
-
----
 
 
 
